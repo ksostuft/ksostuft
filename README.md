@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![ksostuft's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksostuft&show_icons=true&theme=transparent)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksostuft&hide_progress=true)
 
 
 마크다운도 넣을 수 있습니다.
