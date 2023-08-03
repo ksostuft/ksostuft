@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/><img src="https://img.shields.io/badge/language-typescript-blue?style"/><img src="https://img.shields.io/github/license/ksostuft/productive-box"/><img src="https://img.shields.io/github/stars/ksostuft/productive-box"/><img src="https://img.shields.io/github/forks/ksostuft/productive-box"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/><img src="https://img.shields.io/badge/language-java-blue?style"/><img src="https://img.shields.io/github/license/ksostuft/productive-box"/><img src="https://img.shields.io/github/stars/ksostuft/productive-box"/><img src="https://img.shields.io/github/forks/ksostuft/productive-box"/>
 
 ![ksostuft's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksostuft&show_icons=true&theme=radical)
 
