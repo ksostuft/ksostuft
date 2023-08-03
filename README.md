@@ -3,6 +3,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksostuft&hide_progress=true&theme=radical)
 
+<hr/>
+
 **Studied**
 
 **Languages**
@@ -52,11 +54,15 @@
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
+<hr/>
+
 **How To Meet**
 
 <p>
   <a href="mailto:ksostuft@gmail.com" target="_blank"><img src="https://img.shields.io/badge/ksostuft@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
+
+<hr/>
 
 프로그래밍 좋아하는 일반인
 
