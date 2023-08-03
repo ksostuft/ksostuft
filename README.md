@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/><img src="https://img.shields.io/badge/language-java-blue?style"/>[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/><img src="https://img.shields.io/badge/language-java-blue?style"/>[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%ksostuft)](https://hits.seeyoufarm.com) 
 
 ![ksostuft's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksostuft&show_icons=true&theme=radical)
 
