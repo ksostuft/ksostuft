@@ -13,7 +13,7 @@
 
 ![ksostuft's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksostuft&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksostuft&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksostuft&hide_progress=true&theme=radical)
 
 
 
