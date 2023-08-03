@@ -1,3 +1,10 @@
+
+
+
+![ksostuft's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksostuft&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksostuft&hide_progress=true&theme=radical)
+
 **Languages**
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
@@ -9,13 +16,6 @@
   <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=black"/>
   
 </p>
-
-
-![ksostuft's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksostuft&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksostuft&hide_progress=true&theme=radical)
-
-
 
 
 프로그래밍 좋아하는 일반인
