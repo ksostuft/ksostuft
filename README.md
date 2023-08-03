@@ -22,6 +22,13 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 </p>
 
+**DB**
+
+<p>
+  ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+</p>
+
 **How To Connnect**
 <p>
   <a href="mailto:ksostuft@gmail.com" target="_blank"><img src="https://img.shields.io/badge/ksostuft@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
